@@ -1,6 +1,6 @@
 # Meal_Charge_Project
-Cloud Engineering Project - Meal charges Project
+Cloud Engineering Project - Tip Calculator Project
 
-This is the project script for generating the grand total amount of a meal purchased with tips and the sales tax.
+This is the Tip Calculator Project script. It helps to generating the grand total amount of a meal purchased with tips and the sales tax.
 
-Written By: Bolarinwa Joseph Oyerinde - Cloud Engineer Trainee
+Written By: Bolarinwa Oyerinde - Cloud Engineer Trainee

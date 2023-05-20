@@ -1,7 +1,7 @@
 """
-This is the script for generating the grand total amount of a meal purchased with tips and the sales tax.
+This is the Tip Calculator Project script. It helps to generate the grand total amount of a meal purchased with tips and the sales tax.
 
-Written By: Bolarinwa Joseph Oyerinde - Cloud Engineer Trainee
+Written By: Bolarinwa Oyerinde - Cloud Engineer Trainee
 Institution : Azubi Africa 
 Course: Cloud Engineering
 Class : Spring 2023
